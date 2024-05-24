@@ -35,7 +35,7 @@ Apart from coding, I love hiking, playing guitar, and exploring new cuisines!
    - Features include secure login, adding/viewing/updating/deleting student records, and a user-friendly interface.
    
 ## Contact
-Feel free to reach out to me at [sheikhazeemcode@gmail.com](mailto:sheikhazeemcode@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/sheikh-azeem-ctrl).
+Feel free to reach out to me at [sheikhazeemcode@gmail.com](mailto:sheikhazeemcode@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sheikh-azeem-ctrl/).
 
 ---
 
