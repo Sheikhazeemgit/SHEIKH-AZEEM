@@ -3,15 +3,21 @@
 I'm Sheikh Azeem, a recent Computer Science graduate. I'm passionate about coding and enjoy working on web development projects. 
 Apart from coding, I love hiking, playing guitar, and exploring new cuisines!
 ## Skills
+### Languages
 - HTML
 - CSS
 - JavaScript
 - C++
 - Python
-- 
-- **Web Development:** Front-end development using HTML, CSS, and JavaScript
-- **Database Management:** Basic knowledge of SQL and database systems
-- **Software Development:** Fundamentals of object-oriented programming in C++ and Python
+
+### Web Development
+- Front-end development using HTML, CSS, and JavaScript
+
+### Database Management
+- Basic knowledge of SQL and database systems
+
+### Software Development
+- Fundamentals of object-oriented programming in C++ and Python
 
 ## Projects
 1. **[Educational Resource Website](https://github.com/Sheikhazeemgit/educational-resource-website)** (August 2022 – November 2022)
@@ -29,7 +35,7 @@ Apart from coding, I love hiking, playing guitar, and exploring new cuisines!
    - Features include secure login, adding/viewing/updating/deleting student records, and a user-friendly interface.
    
 ## Contact
-Feel free to reach out to me at [sheikhazeemcode@gmail.com](mailto:sheikhazeemcode@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sheikhazeem/).
+Feel free to reach out to me at [sheikhazeemcode@gmail.com](mailto:sheikhazeemcode@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/sheikh-azeem-ctrl).
 
 ---
 
